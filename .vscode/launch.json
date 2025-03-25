@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run MPI Program",
+            "type": "cppdbg",  // MinGW için
+            "request": "launch",
+            "program": "mpiexec",
+            "args": [
+                "-np",
+                "4",
+                "${workspaceFolder}/mpi_openmp_app.exe"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true
+        }
+    ]
+}
