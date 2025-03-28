@@ -65,6 +65,6 @@ Bu uygulamada hem MPI hem de OpenMP kullanılarak hibrit bir paralel programlama
 - **OpenMP** :  Aynı düğümde hızlı ve düşük maliyetli paralel hesaplama sağlar.
 - **MPI** : Büyük ölçekli dağıtık sistemlerde iletişim maliyetine rağmen etkili bir çözümdür.
 
-## Uygulamanın detayları için Youtube videosu linki
+## Uygulamanın detayları için Youtube videosu 
 https://youtu.be/Ru-TLL8o77g
 
