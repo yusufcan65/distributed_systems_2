@@ -1,4 +1,3 @@
-Uygulamanın detayları için Youtube videosu linki : https://youtu.be/Ru-TLL8o77g
 # MPI ve OpenMP Performans Karşılaştırması
 
 Paralel programlama, büyük ölçekli hesaplamaların ve veri işlemenin verimli bir şekilde gerçekleştirilmesini sağlar. Bu bağlamda, Message Passing Interface (MPI) ve Open Multi-Processing (OpenMP) gibi iki temel paralel programlama modeli kullanılır. MPI, dağıtık sistemlerdeki birden fazla işlemci arasında iletişim sağlarken, OpenMP ise paylaşılan bellekli sistemlerde iş parçacıklarını etkinleştirerek paralel hesaplama yapar.
@@ -66,4 +65,6 @@ Bu uygulamada hem MPI hem de OpenMP kullanılarak hibrit bir paralel programlama
 - **OpenMP** :  Aynı düğümde hızlı ve düşük maliyetli paralel hesaplama sağlar.
 - **MPI** : Büyük ölçekli dağıtık sistemlerde iletişim maliyetine rağmen etkili bir çözümdür.
 
+## Uygulamanın detayları için Youtube videosu linki
+https://youtu.be/Ru-TLL8o77g
 
